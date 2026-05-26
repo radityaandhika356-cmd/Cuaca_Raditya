@@ -23,6 +23,5 @@ body {
     display: none;
     margin: 10px auto;
 }
-
 input { padding: 8px; width: 80%; margin-bottom: 10px; }
 button { padding: 8px 15px; cursor: pointer; }
