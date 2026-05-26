@@ -20,7 +20,7 @@ body {
 #weather-icon {
     width: 100px;
     height: 100px;
-    display: block;
+    display: none;
     margin: 10px auto;
 }
 input { padding: 8px; width: 80%; margin-bottom: 10px; }
